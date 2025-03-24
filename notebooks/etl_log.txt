@@ -1,0 +1,163 @@
+Accessing: https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/ae-attendances-and-emergency-admissions-2017-18/
+Accessing: https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/ae-attendances-and-emergency-admissions-2018-19/
+Downloaded & Loaded: March 2019
+Downloaded & Loaded: February 2019
+Downloaded & Loaded: January 2019
+Downloaded & Loaded: December 2018
+Downloaded & Loaded: November 2018
+Downloaded & Loaded: October 2018
+Downloaded & Loaded: September 2018
+Downloaded & Loaded: August 2018
+Downloaded & Loaded: July 2018
+Downloaded & Loaded: June 2018
+Downloaded & Loaded: May 2018
+Downloaded & Loaded: April 2018
+Accessing: https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/ae-attendances-and-emergency-admissions-2019-20/
+Downloaded & Loaded: March 2020
+Downloaded & Loaded: February 2020
+Downloaded & Loaded: January 2020
+Downloaded & Loaded: December 2019
+Downloaded & Loaded: November 2019
+Downloaded & Loaded: October 2019
+Downloaded & Loaded: September 2019
+Downloaded & Loaded: August 2019
+Downloaded & Loaded: July 2019
+Downloaded & Loaded: June 2019
+Downloaded & Loaded: May 2019
+Downloaded & Loaded: April 2019
+Accessing: https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/ae-attendances-and-emergency-admissions-2020-21/
+Downloaded & Loaded: March 2021
+Downloaded & Loaded: February 2021
+Downloaded & Loaded: January 2021
+Downloaded & Loaded: December 2020
+Downloaded & Loaded: November 2020
+Downloaded & Loaded: October 2020
+Downloaded & Loaded: September 2020
+Downloaded & Loaded: August 2020
+Downloaded & Loaded: July 2020
+Downloaded & Loaded: June 2020
+Downloaded & Loaded: May 2020
+Downloaded & Loaded: April 2020
+Accessing: https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/ae-attendances-and-emergency-admissions-2021-22/
+Downloaded & Loaded: March 2022
+Downloaded & Loaded: February 2022
+Downloaded & Loaded: January 2022
+Downloaded & Loaded: December 2021
+Downloaded & Loaded: November 2021
+Downloaded & Loaded: October 2021
+Downloaded & Loaded: September 2021
+Downloaded & Loaded: August 2021
+Downloaded & Loaded: June 2021
+Downloaded & Loaded: May 2021
+Downloaded & Loaded: April 2021
+Accessing: https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/ae-attendances-and-emergency-admissions-2022-23/
+Downloaded & Loaded: March 2023
+Downloaded & Loaded: February 2023
+Downloaded & Loaded: January 2023
+Downloaded & Loaded: December 2022
+Downloaded & Loaded: November 2022
+Downloaded & Loaded: October 2022
+Downloaded & Loaded: September 2022
+Downloaded & Loaded: August 2022
+Downloaded & Loaded: July 2022
+Downloaded & Loaded: June 2022
+Downloaded & Loaded: May 2022
+Downloaded & Loaded: April 2022
+Accessing: https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/ae-attendances-and-emergency-admissions-2023-24/
+Downloaded & Loaded: March 2024
+Downloaded & Loaded: February 2024
+Downloaded & Loaded: January 2024
+Downloaded & Loaded: December 2023
+Downloaded & Loaded: November 2023
+Downloaded & Loaded: October 2023
+Downloaded & Loaded: September 2023
+Downloaded & Loaded: August 2023
+Downloaded & Loaded: July 2023
+Downloaded & Loaded: June 2023
+Downloaded & Loaded: May 2023
+Downloaded & Loaded: April 2023
+Accessing: https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/ae-attendances-and-emergency-admissions-2024-25/
+Downloaded & Loaded: February 2025
+Downloaded & Loaded: January 2025
+Downloaded & Loaded: December 2024
+Downloaded & Loaded: November 2024
+Downloaded & Loaded: October 2024
+Downloaded & Loaded: September 2024
+Downloaded & Loaded: August 2024
+Downloaded & Loaded: July 2024
+Downloaded & Loaded: June 2024
+Downloaded & Loaded: May 2024
+Downloaded & Loaded: April 2024
+Accessing: https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/ae-attendances-and-emergency-admissions-2025-26/
+Failed to access https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/ae-attendances-and-emergency-admissions-2025-26/
+All valid CSV files loaded into memory and combined.
+Missing values in dataset after initial cleanup:
+Period                                                           12
+Org Code                                                         12
+Parent Org                                                       12
+A&E attendances Booked Appointments Type 1                     6558
+A&E attendances Booked Appointments Type 2                     6558
+A&E attendances Booked Appointments Other Department           6558
+Attendances over 4hrs Booked Appointments Type 1               6558
+Attendances over 4hrs Booked Appointments Type 2               6558
+Attendances over 4hrs Booked Appointments Other Department     6558
+Unnamed: 22                                                   17615
+Unnamed: 23                                                   17615
+Unnamed: 24                                                   17615
+Unnamed: 25                                                   17615
+Unnamed: 26                                                   17615
+a                                                             17615
+dtype: int64
+Number of duplicate rows: 0
+Converted 'Period' column data type:
+object
+
+Unique periods in dataset:
+['2018-04' '2018-05' '2018-06' '2018-07' '2018-08' '2018-09' '2018-10'
+ '2018-11' '2018-12' '2019-01' '2019-02' '2019-03' '2019-04' '2019-05'
+ '2019-06' '2019-07' '2019-08' '2019-09' '2019-10' '2019-11' '2019-12'
+ '2020-01' '2020-02' '2020-03' '2020-04' '2020-05' '2020-06' '2020-07'
+ '2020-08' '2020-09' '2020-10' '2020-11' '2020-12' '2021-01' '2021-02'
+ '2021-03' '2021-04' '2021-05' '2021-06' '2021-08' '2021-09' '2021-10'
+ '2021-11' '2021-12' '2022-01' '2022-02' '2022-03' '2022-04' '2022-05'
+ '2022-06' '2022-07' '2022-08' '2022-09' '2022-10' '2022-11' '2022-12'
+ '2023-01' '2023-02' '2023-03' '2023-04' '2023-05' '2023-06' '2023-07'
+ '2023-08' '2023-09' '2023-10' '2023-11' '2023-12' '2024-01' '2024-02'
+ '2024-03' '2024-04' '2024-05' '2024-06' '2024-07' '2024-08' '2024-09'
+ '2024-10' '2024-11' '2024-12' '2025-01' '2025-02']
+Data cleaning completed!
+
+<class 'pandas.core.frame.DataFrame'>
+Index: 17603 entries, 2653 to 15699
+Data columns (total 18 columns):
+ #   Column                                                  Non-Null Count  Dtype   
+---  ------                                                  --------------  -----   
+ 0   Period                                                  17603 non-null  object  
+ 1   Org Code                                                17603 non-null  category
+ 2   Parent Org                                              17603 non-null  category
+ 3   Org name                                                17603 non-null  category
+ 4   A&E attendances Type 1                                  17603 non-null  int64   
+ 5   A&E attendances Type 2                                  17603 non-null  int64   
+ 6   A&E attendances Other A&E Department                    17603 non-null  int64   
+ 7   Attendances over 4hrs Type 1                            17603 non-null  int64   
+ 8   Attendances over 4hrs Type 2                            17603 non-null  int64   
+ 9   Attendances over 4hrs Other Department                  17603 non-null  int64   
+ 10  Patients who have waited 4-12 hs from DTA to admission  17603 non-null  int64   
+ 11  Patients who have waited 12+ hrs from DTA to admission  17603 non-null  int64   
+ 12  Emergency admissions via A&E - Type 1                   17603 non-null  int64   
+ 13  Emergency admissions via A&E - Type 2                   17603 non-null  int64   
+ 14  Emergency admissions via A&E - Other A&E department     17603 non-null  int64   
+ 15  Other emergency admissions                              17603 non-null  int64   
+ 16  Year                                                    17603 non-null  object  
+ 17  Month                                                   17603 non-null  object  
+dtypes: category(3), int64(12), object(3)
+memory usage: 2.3+ MB
+None
+
+
+('2025-02', 'RW1', 'NHS ENGLAND SOUTH EAST ', 'HAMPSHIRE AND ISLE OF WIGHT HEALTHCARE NHS FOUNDATION TRUST', 0, 0, 2518, 0, 0, 37, 0, 0, 0, 0, 0, 119, '2025', 'February')
+('2025-02', 'RWY', 'NHS ENGLAND NORTH EAST AND YORKSHIRE ', 'CALDERDALE AND HUDDERSFIELD NHS FOUNDATION TRUST', 14096, 0, 0, 4471, 0, 0, 1144, 48, 2486, 0, 0, 189, '2025', 'February')
+('2025-02', 'AAH', 'NHS ENGLAND SOUTH WEST ', 'TETBURY HOSPITAL TRUST LTD', 0, 0, 545, 0, 0, 0, 0, 0, 0, 0, 0, 0, '2025', 'February')
+('2025-02', 'RAN', 'NHS ENGLAND LONDON', 'ROYAL NATIONAL ORTHOPAEDIC HOSPITAL NHS TRUST', 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, '2025', 'February')
+('2025-02', 'AJN', 'NHS ENGLAND NORTH EAST AND YORKSHIRE ', 'WORKINGTON HEALTH LIMITED', 0, 0, 279, 0, 0, 0, 0, 0, 0, 0, 0, 0, '2025', 'February')
+ETL completed and data loaded into PostgreSQL!

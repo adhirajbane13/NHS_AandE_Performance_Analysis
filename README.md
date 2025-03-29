@@ -140,9 +140,6 @@ NHS_AandE_Performance_Analysis/
 
 ---
 
-Let me know if you want to split `scripts` or nest `ETL` separately. Also, if you'd like a visual tree diagram for the README (in code block format), I can regenerate that too!
----
-
 ## Usage Guide
 
 ### Start PostgreSQL (Docker)

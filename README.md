@@ -87,12 +87,12 @@ Experience the dashboard in action with this quick walkthrough showing interacti
 - **12+ Hour Delays**: Patients waiting >12 hours from Decision-to-Admit (DTA) to admission
 - **Emergency Admissions**: Patients admitted via A&E departments
 
-> [Read the full NHS A&E Definitions document here][(https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/](https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2019/07/AE-Attendances-Emergency-Definitions-v4.0-final-July-2019.pdf))
+[Read the full NHS A&E Definitions document here][(https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/](https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2019/07/AE-Attendances-Emergency-Definitions-v4.0-final-July-2019.pdf))
 
 ---
 
 ## Project Structure
-
+```
 NHS_AE_Performance_Analysis_and_Forecasting
 ├── notebooks/
 │   └── NHSAandE_data_ETL.py          # ETL pipeline with Docker automation
@@ -106,7 +106,7 @@ NHS_AE_Performance_Analysis_and_Forecasting
 ├── docker-compose.yml
 ├── run_etl.bat                    # Windows scheduler trigger
 └── README.md
-
+```
 ---
 
 ## Usage Guide

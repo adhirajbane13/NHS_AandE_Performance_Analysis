@@ -118,8 +118,9 @@ NHS_AandE_Performance_Analysis/
 │
 ├── notebooks/                       # Analysis notebooks and related assets
 │   ├── scripts/
-│   │   └── NHS_Data_Extraction/
-│   │       └── AandE_data.py       # Custom package for data extraction
+│   └── NHS_Data_Extraction/
+│       ├── __init__.py         # Makes this a Python package
+│       └── AandE_data.py       # Custom package for data extraction
 │   │
 │   ├── AE-Attendances-Emergency-Definitions-v4.0-final-July-2019.pdf   # Official A&E terminology definitions
 │   ├── Data_Analysis.ipynb         # Initial data exploration

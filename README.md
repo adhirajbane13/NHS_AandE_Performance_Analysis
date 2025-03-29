@@ -1,4 +1,4 @@
-# <img src="notebooks/nhs-logo-880x4951.jpeg" alt="NHS Logo" width="300" height="100"/> A&E Performance Analytics Dashboard
+# <img src="notebooks/nhs-logo-880x4951.jpeg" alt="NHS Logo" width="100" height="50"/> A&E Performance Analytics Dashboard
 
 An end-to-end analytics project visualizing Accident & Emergency (A&E) department performance across NHS Trusts in England, using **Python**, **PostgreSQL**, **Docker**, and **Power BI**. The dashboard offers interactive filtering, KPI tracking, drill-through insights, and data storytelling to support data-informed healthcare decisions.
 

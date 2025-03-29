@@ -64,7 +64,7 @@ With increasing strain on NHS A&E services, visualizing performance trends over 
 - **Data Storytelling Narrative**  
   A DAX-powered summary view that converts selected data into a plain-English narrative with navigation bookmarks.
 
-## 🎥 Dashboard Walkthrough
+## Dashboard Walkthrough
 
 Experience the dashboard in action with this quick walkthrough showing interactive filtering, KPIs, and storytelling:
 

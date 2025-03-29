@@ -26,7 +26,7 @@ With increasing strain on NHS A&E services, visualizing performance trends over 
 
 | Step | Description |
 |------|-------------|
-| Data Source | Monthly NHS A&E attendance CSVs |
+| Data Source | Monthly NHS A&E attendance extracted by web-scraping(Separate package created to extraxt data for fixed interval) |
 | Cleaning | Handling missing values, duplicates, standardizing columns |
 | Transformation | Formatting `Period`, extracting `Year` and `Month`, summarizing |
 | Storage | Inserting the cleaned dataset into a PostgreSQL table (`nhs_ae_attendances`) using SQLAlchemy |

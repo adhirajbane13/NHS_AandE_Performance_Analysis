@@ -58,7 +58,7 @@ With increasing strain on NHS A&E services, visualizing performance trends over 
 - **Monthly Total Attendances**  
   A trend chart that displays how total attendances vary month to month over time.
 
-- **Dynamic Slicers (Trust, Year, Month)**  
+- **Dynamic Slicers (NHS Trust, Year)**  
   Enable real-time filtering of all visuals, enhancing interactivity and user control.
 
 - **Data Storytelling Narrative**  

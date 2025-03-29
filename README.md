@@ -84,7 +84,7 @@ The module performs the following:
 
 ## Dashboard Walkthrough
 
-Experience the dashboard in action with this quick walkthrough showing interactive filtering, KPIs, and storytelling:
+Experience the dashboard in action with this quick walkthrough showing interactive filtering, KPIs, and storytelling(Click on the video thumbnail below):
 
 [![Watch the demo](https://img.youtube.com/vi/49mOw4yx5Zo/0.jpg)](https://www.youtube.com/watch?v=49mOw4yx5Zo)
 

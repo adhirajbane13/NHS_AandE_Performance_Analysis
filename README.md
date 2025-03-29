@@ -36,7 +36,7 @@ With increasing strain on NHS A&E services, visualizing performance trends over 
 
 ## Custom Python Package for Data Extraction
 
-This project includes a **custom-built Python package** named `AandEData`, located in [`scripts/NHS_Data_Extraction/AandE_data.py`](scripts/NHS_Data_Extraction/AandE_data.py). This package allows users to extract NHS A&E attendance data dynamically for any **start and end month-year range**.
+This project includes a **custom-built Python package** named `AandEData`, located in [`scripts/NHS_Data_Extraction/AandE_data.py`](notebooks/scripts/NHS_Data_Extraction/AandE_data.py). This package allows users to extract NHS A&E attendance data dynamically for any **start and end month-year range**.
 
 ```python
 from scripts.NHS_Data_Extraction.AandE_data import AandEData
@@ -48,7 +48,7 @@ combined_df = AandEData().download_data("April 2018", "February 2025")
 The module performs the following:
 - Automatically downloads monthly CSVs from NHS England’s website  
 - Merges the data  
-- Returns a single DataFrame ready for analysis or loading into a database
+- Returns a single DataFrame ready for cleaning, transformation and loading into a database
 
 ---
 

@@ -162,6 +162,4 @@ Use `run_etl.bat` with **Windows Task Scheduler** for periodic updates.
 ## Author
 
 **Adhiraj Banerjee**  
-Data Analyst
-
-[LinkedIn](https://www.linkedin.com/in/adhiraj-banerjee/)
+Data Analyst, [LinkedIn](https://www.linkedin.com/in/adhiraj-banerjee/)

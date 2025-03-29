@@ -1,4 +1,4 @@
-# NHS A&E Performance Analytics Dashboard
+# ![NHS Logo](notebooks/nhs-logo-880x4951.jpeg) A&E Performance Analytics Dashboard
 
 An end-to-end analytics project visualizing Accident & Emergency (A&E) department performance across NHS Trusts in England, using **Python**, **PostgreSQL**, **Docker**, and **Power BI**. The dashboard offers interactive filtering, KPI tracking, drill-through insights, and data storytelling to support data-informed healthcare decisions.
 
@@ -111,20 +111,36 @@ Experience the dashboard in action with this quick walkthrough showing interacti
 
 ## Project Structure
 ```
-NHS_AE_Performance_Analysis_and_Forecasting
-├── notebooks/
-│   └── NHSAandE_data_ETL.py          # ETL pipeline with Docker automation
-├── scripts/
-│   └── NHS_Data_Extraction/
-│       ├── __init__.py
-│       └── AandE_data.py             # Package file for extracting dataframe from web-scraping
-├── dashboard/
-│   └── NHS_AE_PowerBI_Report.pbix    # Final Power BI dashboard
-├── requirements.txt
-├── docker-compose.yml
-├── run_etl.bat                    # Windows scheduler trigger
-└── README.md
+NHS_AandE_Performance_Analysis/
+│
+├── dashboards/                      # Power BI dashboard files
+│   └── NHS_AandE_DB.pbix
+│
+├── notebooks/                       # Analysis notebooks and related assets
+│   ├── scripts/
+│   │   └── NHS_Data_Extraction/
+│   │       └── AandE_data.py       # Custom package for data extraction
+│   │
+│   ├── AE-Attendances-Emergency-Definitions-v4.0-final-July-2019.pdf   # Official A&E terminology definitions
+│   ├── Data_Analysis.ipynb         # Initial data exploration
+│   ├── Data_Analysis_new.ipynb     # Cleaned and final analysis notebook
+│   ├── Data_Analysis_new.html      # HTML export of final notebook
+│   ├── Data_Analysis_new.pdf       # PDF version of analysis
+│   ├── NHSAandE_data_ETL.py        # ETL pipeline script for database load
+│   ├── docker-compose.yaml         # Docker config file for PostgreSQL
+│   ├── etl_log.txt                 # Log file for ETL execution
+│   └── nhs-logo-880x4951.jpeg      # NHS logo for dashboard branding
+│
+├── .gitignore
+├── requirements.txt                # Python dependencies
+├── Setup.py
+├── run_etl.bat                     #  Windows batch file for scheduling ETL jobs
+└── README.md                       # Project overview and documentation
 ```
+
+---
+
+Let me know if you want to split `scripts` or nest `ETL` separately. Also, if you'd like a visual tree diagram for the README (in code block format), I can regenerate that too!
 ---
 
 ## Usage Guide

@@ -82,7 +82,7 @@ The module performs the following:
 - **Data Storytelling Narrative**  
   A DAX-powered summary view that converts selected data into a plain-English narrative with navigation bookmarks.
 
-## Dashboard Walkthrough
+## Dashboard Walkthrough([View Interactive NHS A&E Dashboard in PowerBI](https://app.powerbi.com/view?r=eyJrIjoiOGQ5ODY4NGUtOWI4NS00NzgzLTg3ODktNmRlMGUwNGViYmE1IiwidCI6ImRhMTIzNzA3LTFiNjEtNDRjNy1iZGFhLTk4ZTYyZjFlYTc0ZSJ9))
 
 Experience the dashboard in action with this quick walkthrough showing interactive filtering, KPIs, and storytelling(Click on the video thumbnail below):
 

@@ -88,7 +88,7 @@ Experience the dashboard in action with this quick walkthrough showing interacti
 
 [![Watch the demo](https://img.youtube.com/vi/n97qh0wzoUI/0.jpg)](https://www.youtube.com/watch?v=n97qh0wzoUI)
 
-[Dashboard Link](https://app.powerbi.com/reportEmbed?reportId=fd34ce1e-378a-458e-b8ad-879d48531b12&autoAuth=true&ctid=da123707-1b61-44c7-bdaa-98e62f1ea74e)
+<iframe title="NHS_AandE_DB" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=fd34ce1e-378a-458e-b8ad-879d48531b12&autoAuth=true&ctid=da123707-1b61-44c7-bdaa-98e62f1ea74e" frameborder="0" allowFullScreen="true"></iframe>
 ---
 
 ##  NHS A&E Definitions
